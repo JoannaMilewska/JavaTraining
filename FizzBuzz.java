@@ -1,4 +1,3 @@
-package zadania;
 
 import javax.sound.midi.Soundbank;
 
