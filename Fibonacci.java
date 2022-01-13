@@ -1,4 +1,4 @@
-package zadania;
+
 
 public class Fibonacci {
 

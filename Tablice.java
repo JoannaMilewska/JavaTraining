@@ -1,4 +1,4 @@
-package zadania;
+
 //zamiana liczb w tablicy, o jedno w lewo, przykładowe zadanko rekrutacyjne
 
 import java.util.Arrays;
